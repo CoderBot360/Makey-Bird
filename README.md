@@ -22,10 +22,12 @@
 
 Click **Run** (or open the game in a WebGL-compatible browser). Tap **Spacebar** or **Click** to jump. Don’t hit anything. Make it through as many pipes as you can!
 
-## 📦 Installation / Playing
+## 💾 How to Run the Game
 
-> This game is made with Unity and runs best as a WebGL build.  
-> Open the `index.html` file from a WebGL export folder or host the game using GitHub Pages.
+1. Go to the [**Releases**](https://github.com/CoderBot360/MakeyBird/releases) page
+2. Download the latest ZIP (e.g., `MakeyBird_v1.0.zip`)
+3. Unzip it anywhere
+4. Double-click `MakeyBird.exe` to play
 
 ## 🎵 Credits
 
